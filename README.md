@@ -24,9 +24,11 @@ Choose what do you want to do:
 
 next you have to chosoe a number, for if you choose 1 which is used fro adding
 a student in the systemyou will be asked the following :
+
 Enter your name: 
 Enter your ID: 
 Create a password: 
+
 after you fill this gaps a student will br added to the system.
 
 2 for knowing how many students are in the system.
