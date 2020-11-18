@@ -2,7 +2,7 @@
 # a project by ahmed ehab and tasneem sherif
 
 
-this project is about system that order a library, it can take take name and id
+this project is about system that order a library, it can take name and id
 from the user and save it when you need it and add more sutdent as much as you need,
 now you have a list of all student that register in the syatem, next you can access 
 the User's number in the system, then you add books and the id of it, and you have
@@ -13,8 +13,8 @@ but first you have to rate it from 1 to 5.
 
 # preview
 at the begining of the program you will find a menu as shown below:
-Hello dear!
-Choose what do you want to do:
+- Hello dear!
+- Choose what do you want to do:
 1. Student Registeration.
 2. User's number.
 3. Add a book.
@@ -22,7 +22,7 @@ Choose what do you want to do:
 5. Search for a specific book.
 99. Exit.
 
-next you have to chosoe a number, for if you choose 1 which is used fro adding
+next you have to choose a number,if you choose 1 which is used fro adding
 a student in the systemyou will be asked the following :
 
 - Enter your name: 
@@ -34,13 +34,14 @@ after you fill this gaps a student will br added to the system.
 2 for knowing how many students are in the system.
 
 then you can enter 3 and add the book name and the id of that book as shown:
-Enter the book name:  
-Enter the book id:  
 
-4 to view all the books in the system
+- Enter the book name:  
+- Enter the book id:  
 
-click 5 if you are confused waether you have this book in the library or not
+4 to view all the books in the system.
+
+click 5 if you are confused waether you have this book in the library or not.
 
 if you want to close the program you can press 99 rate our program and thank you
-for using it :)
+for using it :).
 
